@@ -15,3 +15,5 @@ For those interested in the logo it was generated with block characters and is s
       '╚██████╗██║  ██║╚██████╗██║  ██║   ██║   ╚██████╔╝███████║'
       ' ╚═════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚══════╝'
     )
+
+If you find any problem feel free to drop a comment here or reddit, be aware that I'm far more available on reddit.
